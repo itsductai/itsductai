@@ -1,9 +1,9 @@
 <h1 align="center">
   <a href="#"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&width=1100&lines=%F0%9F%91%8B+HELLO%2C+I'M+DUC+TAI!;🚀+THANK+YOU+FOR+VISITING!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+HELLO%2C+I'M+DUC+TAI!&repeat=true" alt="Typing SVG" />
   </a>
 </h1>
-
+  
 <table align="center">
   <tr>
     <td>
@@ -11,7 +11,7 @@
     </td>
     <td align="center"> 
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsductai&layout=compact&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsductai&layout=compact&theme=dark&cache_seconds=3600" />
       </p>
     </td>
   </tr>
@@ -86,6 +86,6 @@
 
 <h1 align="center">
   <a href="#"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&width=1100&lines=✨+THANK+YOU+FOR+VISITING!+✌️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=<3+THANK+YOU+FOR+VISITING!&repeat=true" alt="Typing SVG" />
   </a>
 </h1>
