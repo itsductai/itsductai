@@ -1,34 +1,31 @@
-
 <h1 align="center">
   <a href="#"> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&width=1100&lines=%F0%9F%91%8B+HELLO%2C+I'M+DUC+TAI!;🚀+THANK+YOU+FOR+VISITING!" alt="Typing SVG" />
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHA0ZjZqMHN1czlxM2RmMTMzMnZnNTVwYmFiNmd1aHdzNHhscXc5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif" width="400" />
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsductai&layout=compact&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHA0ZjZqMHN1czlxM2RmMTMzMnZnNTVwYmFiNmd1aHdzNHhscXc5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif" width="400" />
+    </td>
+    <td align="center"> 
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsductai&layout=compact&theme=dark" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <h2 align="center">💻 I'm a Full Stack .NET Developer</h2>
-
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsductai&label=Total+Profile+Views&color=blue&style=flat" /><br>
   🎓 <strong>Final-year student at Can Tho University</strong><br>
   📍 <strong>Based in Vietnam</strong><br>
   🚀 <strong>Currently focusing on ASP.NET Core & ReactJS</strong><br>
   🎯 <strong>Career Goal:</strong> Becoming a proficient <strong>Fullstack .NET Developer</strong><br>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsductai&label=Total+Profile+Views&color=blue&style=flat" />
 </p>
 
 <p align="center">
