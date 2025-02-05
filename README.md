@@ -38,6 +38,9 @@
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-24292E?style=flat&logo=githubpages&logoColor=white" />
   </a>
+  <a href="https://www.facebook.com/ductaaii">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -56,7 +59,6 @@
 ### 🛠 Backend:
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/-.NET_Core-5C2D91?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-5C2D91?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core MVC](https://img.shields.io/badge/-ASP.NET_Core_MVC-5C2D91?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Web API](https://img.shields.io/badge/-ASP.NET_Web_API-5C2D91?style=flat&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-5C2D91?style=flat&logo=dotnet&logoColor=white)
@@ -69,18 +71,35 @@
 ### 🔄 Realtime:
 ![SignalR](https://img.shields.io/badge/-SignalR-0088CC?style=flat&logo=microsoft&logoColor=white)
 
+### ☁️ Cloud & DevOps:
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=azure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 ### ⚙️ Tools:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ### 🎯 Extra:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/-Java_Swing-007396?style=flat&logo=java&logoColor=white)
+
+## 👨‍💻 Projects
+
+### 📌 [Online Learning Management System](https://github.com/itsductai/Online_Learning_Management_System_Project)
+🚀 **Stack:** ASP.NET Core, ReactJS, SQL Server  
+🎯 **Mô tả:** Hệ thống quản lý khóa học online với phân quyền **Student - Instructor - Admin**.  
+🔗 **Live Demo:** [Đang phát triển...]  
+
+---
+
+### 📌 [QuizzApp](https://github.com/itsductai/quizz-app)
+🚀 **Stack:** ReactJS, ASP.NET Web API  
+🎯 **Mô tả:** Ứng dụng làm bài kiểm tra online, có tính điểm và lưu kết quả.  
+🔗 **Demo:** [Đang phát triển...]  
+
 
 ---
 
