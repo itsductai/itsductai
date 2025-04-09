@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/ductai-nguyen1612/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://nductai.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-24292E?style=flat&logo=githubpages&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/ductaaii">
